@@ -1,16 +1,20 @@
-## Hi there 👋
+# 🗺️Portifólio
+Bem-vindo ao meu portifólio! Aqui você encontra desenvolvimento em python, automação de processos, análise de dados e modelagem de banco de dados.
 
-<!--
-**bispo-eugenio/bispo-eugenio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Índice
+- [Python](https://github.com/bispo-eugenio/bispo-eugenio/edit/main/README.md#Python).
+- [SQL](https://github.com/bispo-eugenio/bispo-eugenio/edit/main/README.md#sql).
+- [Data Science](https://github.com/bispo-eugenio/bispo-eugenio/edit/main/README.md#sql).
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🐍Python
+|Link|Data De Finalização|Área|Descrição|Ferramentas|
+|---|---|---|---|---|
+
+# 💾SQL
+|Link|Data De Finalização|Área|Descrição|Ferramentas|
+|---|---|---|---|---|
+
+# 👨‍💻Data Science
+|Link|Data De Finalização|Área|Descrição|Ferramentas|
+|---|---|---|---|---|
