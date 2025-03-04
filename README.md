@@ -7,14 +7,14 @@ Bem-vindo ao meu portifólio! Aqui você encontra desenvolvimento em python e mo
 - [SQL](#sql).
 
 
-# Python
+# 🐍Python 
 |Link|Área|Descrição|Ferramentas|
 |---|---|---|---|
 
-# Java
+# ☕Java
 |Link|Área|Descrição|Ferramentas|
 |---|---|---|---|
 
-# SQL
+# 💾SQL
 |Link|Área|Descrição|Ferramentas|
 |---|---|---|---|
