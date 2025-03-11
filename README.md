@@ -1,20 +1,23 @@
-# 🗺️Portifólio
-Bem-vindo ao meu portifólio! Aqui você encontra desenvolvimento em python e modelagem de banco de dados.
-
-# Índice
-- [Python](#python).
-- [Java](#java).
-- [SQL](#sql).
+# 🚀 Sobre mim
+Olá, tudo bem? Eu sou um estudante e aspirante a desenvolvedor fullstack. Gosto bastante de aprender coisas novas e aperfeiçoar minhas habilidades. Claro, nesse processo, acabo cometendo erros de vez em quando, mas são justamento os erros que fazem crescer e evoluir. Errar faz parte da evolução.
 
 
-# 🐍Python 
-|Link|Área|Descrição|Ferramentas|
-|---|---|---|---|
 
-# ☕Java
-|Link|Área|Descrição|Ferramentas|
-|---|---|---|---|
 
-# 💾SQL
-|Link|Área|Descrição|Ferramentas|
-|---|---|---|---|
+## Habilidades
+
+Tecnológia que uso:
+
+- Linguagens:  Python e java
+- IDEs: VsCode
+- Banco de dados: PostgreSQL
+- Git Bash e GitHub
+## Projeto
+
+Acesse meus projetos [aqui](#aqui).
+
+
+## Contatos
+
+- [Linkedln](#www.linkedin.com/in/eugenio-bispo)
+- [Email](#bispoeugenio270@gmail.com)
