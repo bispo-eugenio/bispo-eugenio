@@ -11,7 +11,7 @@ Olá, tudo bem? Eu sou um estudante e aspirante a desenvolvedor fullstack. Gosto
 - Git Bash e GitHub
 ## Projeto
 
-Acesse meus [projetos](https://github.com/bispo-eugenio/Projetos/blob/main/README.md)
+Acesse meus [projetos](https://github.com/bispo-eugenio/Projetos/blob/main/README.md).
 
 
 ## Contatos
