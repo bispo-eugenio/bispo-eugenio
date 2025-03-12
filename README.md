@@ -17,4 +17,4 @@ Acesse meus [projetos](https://github.com/bispo-eugenio/Projetos/blob/main/READM
 ## Contatos
 
 - [Linkedln](#www.linkedin.com/in/eugenio-bispo)
-- [Email](#bispoeugenio270@gmail.com)
+- [Email](#https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHvbKtcsKCMvqPrxTVftpZXZVDtxJQdlVQGMPJpWgGBJzVkMxXWKJVlXSjtJDFwdjmgsBjw)
