@@ -5,7 +5,7 @@ Olá, tudo bem? Eu sou um estudante e aspirante a desenvolvedor fullstack. Gosto
 
 
 ## Ferramentas
-- Linguagens:  Python e java
+- Linguagens:  Python
 - IDEs: VsCode
 - Banco de dados: PostgreSQL
 - Git Bash e GitHub
