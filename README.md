@@ -6,9 +6,9 @@ Olá, tudo bem? Eu sou um estudante e aspirante a desenvolvedor fullstack. Gosto
 
 ## Ferramentas
 - Linguagens:  Python
-- IDEs: VsCode
-- Banco de dados: PostgreSQL
-- Git Bash e GitHub
+- IDEs: VsCode, PyCharm
+- Banco de dados: PostgreSQL, MongoDB
+- Versionamento: Git Bash e GitHub
 ## Projeto
 
 Acesse meus [projetos](https://github.com/bispo-eugenio/Projetos/blob/main/README.md).
