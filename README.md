@@ -5,7 +5,7 @@ Olá, tudo bem? Eu sou um estudante e aspirante a desenvolvedor fullstack. Gosto
 
 
 ## Ferramentas
-- Linguagens:  Python, JS
+- Linguagens:  Python
 - Desenvolvimento Web: HTML, CSS
 - IDEs: VsCode, PyCharm
 - Banco de dados: PostgreSQL, MongoDB
