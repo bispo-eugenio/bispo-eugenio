@@ -9,7 +9,7 @@ Olá, tudo bem? Eu sou um estudante e aspirante a desenvolvedor fullstack. Gosto
 - Desenvolvimento Web: HTML, CSS
 - IDEs: VsCode, PyCharm
 - Banco de dados: PostgreSQL, MongoDB
-- Versionamento: Git Bash e GitHub
+- Versionamento: Git e GitHub
   
 ## Projeto
 
